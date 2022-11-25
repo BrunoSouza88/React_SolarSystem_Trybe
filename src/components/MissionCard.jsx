@@ -3,7 +3,7 @@ import React from 'react';
 class MissionCard extends React.Component {
   render() {
     const { name, year, country, destination } = this.props;
-    return(
+    return (
       <div data-testid="mission-card">
         <p data-testid="mission-name">{ name }</p>
         <p data-testid="mission-year">{ year }</p>
