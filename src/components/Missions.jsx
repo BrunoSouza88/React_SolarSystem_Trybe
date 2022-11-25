@@ -7,7 +7,7 @@ class Missions extends React.Component {
       <div data-testid="missions">
         <Title headline="missões" />
       </div>
-    )
+    );
   }
 }
 
