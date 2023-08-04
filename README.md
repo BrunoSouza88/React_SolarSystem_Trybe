@@ -7,8 +7,7 @@ React Solar System is a project developed during the Trybe Front-End Development
 The project is built using the following technologies:
 
 - React
-- Three.js
-- HTML5 Canvas
+- HTML5
 - CSS3
 
 ## **Features** ✨
