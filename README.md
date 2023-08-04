@@ -1,10 +1,61 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# **React Solar System** 🪐
+
+## **Description** 🚀
+React Solar System is a project developed during the Trybe Front-End Development course. It is a web application that allows users to explore and learn about the solar system. The application provides an interactive 3D visualization of the planets, along with information about each planet, its moons, and other celestial bodies.
+
+## **Technologies Used** 🛠️
+The project is built using the following technologies:
+
+- React
+- Three.js
+- HTML5 Canvas
+- CSS3
+
+## **Features** ✨
+- Interactive 3D visualization of the solar system.
+- Detailed information about each planet, including its name, size, distance from the sun, and composition.
+- Information about the moons of each planet.
+- Navigation controls to explore the solar system from different angles.
+
+## **Getting Started** 🚀
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/BrunoSouza88/React_SolarSystem_Trybe.git
+```
+2. Navigate to the project directory:
+```bash
+cd React_SolarSystem_Trybe
+```
+3. Install the dependencies:
+```bash
+npm install
+```
+4. Start the development server:
+```bash
+npm start
+```
+Access the application in your browser at http://localhost:3000.
+
+## **Contribution** 🤝
+Contributions to this project are welcome. If you find any issues or have ideas for improvements, feel free to open an issue or create a pull request. Your feedback is valuable and greatly appreciated.
+
+To contribute, follow these steps:
+
+1. Fork this repository.
+2. Create a new branch for your feature (git checkout -b feature/MyFeature).
+3. Make necessary changes and commit (git commit -m 'Adding my feature').
+4. Push to the created branch (git push origin feature/MyFeature).
+5. Open a pull request.
+
+Be sure to adhere to the project's coding standards and practices.
+
+## **License** 📜
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## **Contact** 📧
+If you have any questions or suggestions, feel free to contact me:
+
+Bruno Souza
+Email: bmsouza88@gmail.com
